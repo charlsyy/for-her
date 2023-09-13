@@ -28,7 +28,7 @@ new Vue({
           {
             name: "Sweet",
             artist: "Cigarretes After Sex",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1y7HSwxIk4YDe8vNDRxHthTgy8zrMY6ZH",
             source: "https://github.com/charlsyy/adsa/raw/main/onlymp3.to%20-%20Sweet%20Cigarettes%20After%20Sex-pZ31pyTZdh0-192k-1692709064.mp3",
             url: "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng?si=043e8fa4efa8449c",
             favorited: false
@@ -36,7 +36,7 @@ new Vue({
           {
             name: "Sure Thing",
             artist: "Miguel",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1y8D3Z8XP38WlzkBLV6T09Ew8Mpe6gPfp",
             source: "https://github.com/charlsyy/adsa/raw/main/Miguel%20-%20Sure%20Thing%20(Lyrics).mp3",
             url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
             favorited: false
@@ -44,7 +44,7 @@ new Vue({
           {
             name: "we fell inlove in october",
             artist: "girl in red",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yAcXCPsYz3riD5YYJtra0-THDkwwnFoc",
             source: "https://github.com/charlsyy/adsa/raw/main/girl%20in%20red%20-%20we%20fell%20in%20love%20in%20october.mp3",
             url: "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl?si=dc7405fc099546c8",
             favorited: true
@@ -52,7 +52,7 @@ new Vue({
           {
             name: "All I wanted",
             artist: "Paramore",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yHFqKtvedUNIG2VaPC0YlNCbki1tNJtp",
             source: "https://github.com/charlsyy/adsa/raw/main/Paramore%20-%20All%20I%20Wanted%20(Official%20Audio).mp3",
             url: "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd?si=9bfc6d688a5d435d",
             favorited: false
@@ -60,7 +60,7 @@ new Vue({
           {
             name: "The Only Exception",
             artist: "Paramore",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yI6CWOOIzU5PlpoWp_V-7jC5510YPVG8",
             source: "https://github.com/charlsyy/adsa/raw/main/Paramore%20-%20The%20Only%20Exception%20(HQ%20Audio).mp3",
             url: "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs?si=51efa9cac6eb4132",
             favorited: true
@@ -68,7 +68,7 @@ new Vue({
           {
             name: "Paper Rings",
             artist: "Taylor Swift",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yISDfxgj6a98OW9SQjgytaeP7KziljYs",
             source: "https://github.com/charlsyy/adsa/raw/main/Taylor%20Swift%20-%20Paper%20Rings%20(Official%20Audio).mp3",
             url: "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR?si=b8b958df77cc4c51",
             favorited: false
@@ -76,7 +76,7 @@ new Vue({
           {
             name: "To the Bone",
             artist: "Pamungkas",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yM4vwSUJ-T3_w_vsTIf2z7LSmmUrcUSi",
             source: "https://github.com/charlsyy/adsa/raw/main/Pamungkas%20-%20To%20The%20Bone.mp3",
             url: "https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF?si=0a6e705afefa4571",
             favorited: false
@@ -84,7 +84,7 @@ new Vue({
           {
             name: "Fallen",
             artist: "Lola Amour",
-            cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
+            cover: "https://drive.google.com/uc?export=view&id=1yS0bg8e5glZEZZSrYl6UJbhjYw-L4Wd1",
             source: "https://github.com/charlsyy/adsa/raw/main/Lola%20Amour%20-%20Fallen%20(Official%20Lyric%20Video).mp3",
             url: "https://open.spotify.com/track/4mc3rUoMwwiNTHA4al9nNd?si=bb3961e7565f4c13",
             favorited: false
